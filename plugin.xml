@@ -112,7 +112,6 @@
 		<framework src="com.android.support:support-v4:26.0.0" />
         <framework src="com.android.support:appcompat-v7:26.0.0" />
         <framework src="com.android.support:recyclerview-v7:26.0.0" />
-        <framework src="com.android.support:design:26.0.0" />
         <framework src="com.android.support.constraint:constraint-layout:1.0.2" />
         <framework src="com.github.bumptech.glide:glide:4.3.1" />
         <framework src="org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.60" />
